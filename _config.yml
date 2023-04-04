@@ -13,17 +13,18 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Byte by Byte # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: with Jordan Draper # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Byte by Byte is a blog that offers insights into technology, hobbies, and interests, featuring Jordan Draper’s portfolio of tech projects, informative articles and tutorials, and posts about various topics related to technology and beyond.
+
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://jordandraper.github.io"
@@ -38,11 +39,11 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Jordan Draper
-  email: example@domain.com # change to your email address
+  email: jordan.draper@protonmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/jordandraper # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -80,7 +81,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "../assets/img/00004-3720429673.0.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
