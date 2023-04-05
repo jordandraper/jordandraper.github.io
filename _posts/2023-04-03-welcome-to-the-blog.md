@@ -1,5 +1,6 @@
 ---
 title: Welcome to the bLog
+author: jdraper
 date: 2023-04-03 11:30:00 +0000
 categories: [Info]
 tags: [blog]     # TAG names should always be lowercase
