@@ -4,11 +4,18 @@ author: jdraper
 date: 2023-04-19 02:30:00 +0000
 categories: [Info]
 tags: [blog]     # TAG names should always be lowercase
+img_path: /assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/
+image:
+  path: 00003-4040056495.png
+  alt: test
 ---
 
-<p align="center">
-  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00003-4040056495.png">
+<!-- <p align="center">
+  <img src="../assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00003-4040056495.png" />
 </p>
+
+
+![test](/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00003-4040056495.png) -->
 
 As a proud owner of an RTX 3080 12GB GPU, I was eager to test its capabilities and push it to the limit. After browsing through various projects, I came across Stable Diffusion, a fascinating tool that caught my attention. In this blog post, I'll share my experience using Stable Diffusion, the concept behind diffusion models, and how I fine-tuned the models to generate images that looked eerily like myself.
 
