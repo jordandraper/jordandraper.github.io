@@ -11,11 +11,11 @@ image:
 ---
 
 <!-- <p align="center">
-  <img src="../assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00003-4040056495.png" />
+  <img src="..00003-4040056495.png" />
 </p>
 
 
-![test](/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00003-4040056495.png) -->
+![test](00003-4040056495.png) -->
 
 As a proud owner of an RTX 3080 12GB GPU, I was eager to test its capabilities and push it to the limit. After browsing through various projects, I came across Stable Diffusion, a fascinating tool that caught my attention. In this blog post, I'll share my experience using Stable Diffusion, the concept behind diffusion models, and how I fine-tuned the models to generate images that looked eerily like myself.
 
@@ -33,13 +33,13 @@ To start my journey, I decided to use the img2img feature of Stable Diffusion. T
 
 Original            |  Stable Diffusion
 :-------------------------:|:-------------------------:
-![](/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/og-512.jpg)  |  ![](/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00109-2219306658.png)
+![](og-512.jpg)  |  ![](00109-2219306658.png)
 
 ## Fine-tuning with Dreambooth
 
 While the initial results were impressive, I wanted to take it a step further and fine-tune the default [stable-diffusion-v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5) model on my own images. This is where Dreambooth came in handy. Dreambooth is a tool within Stable Diffusion that allows users to fine-tune the models on specific images, leading to better and more accurate results. Specifically, it retrains the model to understand a new special keyword as the subject of interest (in this case _me_), while not losing it's previous training.
 
-![](/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/teaser_static.jpg)
+![](teaser_static.jpg)
 
 I went through multiple attempts at fine-tuning the model, adjusting various parameters and providing different input images. With each iteration, I noticed that the generated images started to look more and more like me. The process was both exciting and unnerving, as the model captured even the smallest details of my appearance.
 
@@ -48,15 +48,15 @@ I went through multiple attempts at fine-tuning the model, adjusting various par
 After a long period of trial and error, I finally achieved a level of fine-tuning that produced images that were similar to my actual appearance.
 
 <p align="left">
-  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00730-1337075712.png" width="100" />
-  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00757-1853873556.png" width="100" /> 
-  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00800-1086788804.png" width="100" />
-  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00817-1086788804.png" width="100" />
-  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00844-1069006198.png" width="100" />
-  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00881-2372777035.png" width="100" />
-  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00933-1207990941.png" width="100" />
-  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00940-258243538.png" width="100" />
-  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00976-2139256404.png" width="100" />
+  <img src="00730-1337075712.png" width="100" />
+  <img src="00757-1853873556.png" width="100" /> 
+  <img src="00800-1086788804.png" width="100" />
+  <img src="00817-1086788804.png" width="100" />
+  <img src="00844-1069006198.png" width="100" />
+  <img src="00881-2372777035.png" width="100" />
+  <img src="00933-1207990941.png" width="100" />
+  <img src="00940-258243538.png" width="100" />
+  <img src="00976-2139256404.png" width="100" />
 </p>
 
 > As you can see, Stable Diffusion can produce a wide variety of artistic styles.
@@ -66,7 +66,7 @@ Figuring out SD is an art in and of itself, but I was able to find two images I 
 
 ⠀            |  ⠀
 :-------------------------:|:-------------------------:
-![](/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00031-1624942576.png)  |  ![](/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00890-3720429673.png)
+![](00031-1624942576.png)  |  ![](00890-3720429673.png)
 
 You'll recognize the second picture as the source for what would become the avatar to my GitHub profile and this blog.
 
