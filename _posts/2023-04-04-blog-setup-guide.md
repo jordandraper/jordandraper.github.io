@@ -31,7 +31,7 @@ While Chirpy is meant to be pain-free I did have some stumbling blocks, so let's
 
 1. Use the [Chirpy Starter template](https://github.com/cotes2020/chirpy-starter) to create a new *Public* GitHub repository.
 
-    ![Chirpy Starter](/assets/img/post-images/2023-04-04-blog-setup-guide/chirpy-starter.png)
+    ![Chirpy Starter](/assets/img/posts/2023-04-04-blog-setup-guide/chirpy-starter.png)
 
 
 
