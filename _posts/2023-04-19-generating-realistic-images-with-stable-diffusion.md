@@ -37,15 +37,15 @@ I went through multiple attempts at fine-tuning the model, adjusting various par
 After a long period of trial and error, I finally achieved a level of fine-tuning that produced images that were similar to my actual appearance.
 
 <p align="middle">
-  <img src="../assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00730-1337075712.png" width="100" />
-  <img src="../assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00757-1853873556.png" width="100" /> 
-  <img src="../assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00800-1086788804.png" width="100" />
-  <img src="../assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00817-1086788804.png" width="100" />
-  <img src="../assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00844-1069006198.png" width="100" />
-  <img src="../assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00881-2372777035.png" width="100" />
-  <img src="../assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00933-1207990941.png" width="100" />
-  <img src="../assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00940-258243538.png" width="100" />
-  <img src="../assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00976-2139256404.png" width="100" />
+  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00730-1337075712.png" width="100" />
+  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00757-1853873556.png" width="100" /> 
+  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00800-1086788804.png" width="100" />
+  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00817-1086788804.png" width="100" />
+  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00844-1069006198.png" width="100" />
+  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00881-2372777035.png" width="100" />
+  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00933-1207990941.png" width="100" />
+  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00940-258243538.png" width="100" />
+  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00976-2139256404.png" width="100" />
 </p>
 
 > As you can see, Stable Diffusion can produce a wide variety of artistic styles.
