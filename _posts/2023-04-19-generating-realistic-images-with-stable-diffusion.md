@@ -6,6 +6,10 @@ categories: [Info]
 tags: [blog]     # TAG names should always be lowercase
 ---
 
+<p align="center">
+  <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00003-4040056495.png">
+</p>
+
 As a proud owner of an RTX 3080 12GB GPU, I was eager to test its capabilities and push it to the limit. After browsing through various projects, I came across Stable Diffusion, a fascinating tool that caught my attention. In this blog post, I'll share my experience using Stable Diffusion, the concept behind diffusion models, and how I fine-tuned the models to generate images that looked eerily like myself.
 
 ## What is Stable Diffusion?
@@ -36,7 +40,7 @@ I went through multiple attempts at fine-tuning the model, adjusting various par
 
 After a long period of trial and error, I finally achieved a level of fine-tuning that produced images that were similar to my actual appearance.
 
-<p align="middle">
+<p align="left">
   <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00730-1337075712.png" width="100" />
   <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00757-1853873556.png" width="100" /> 
   <img src="/assets/img/posts/2023-04-18-generating-realistic-images-with-stable-diffusion/00800-1086788804.png" width="100" />
